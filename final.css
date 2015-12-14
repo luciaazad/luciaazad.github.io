@@ -20,7 +20,7 @@ body{
 #leftbody{
 	float:left;
 	width:190px;
-	height: 700px;
+	height: 710px;
 	background-color:#ADD8E6;
 	padding:5px;
 
@@ -28,7 +28,7 @@ body{
 #rightbody{
 	float:right;
 	width:540px;
-	height:700px;
+	height:710px;
 	background:#E6E6FA;
 	padding:5px;
 }
